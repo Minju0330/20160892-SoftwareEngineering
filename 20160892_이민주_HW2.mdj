@@ -63,7 +63,7 @@
 											"top": 206,
 											"width": 95,
 											"height": 13,
-											"text": "온라인쇼핑몰 유저"
+											"text": "온라인쇼핑몰 고객"
 										},
 										{
 											"_type": "LabelView",
@@ -731,9 +731,9 @@
 							"font": "Arial;13;0",
 							"left": 347,
 							"top": 562,
-							"width": 122.22998046875,
+							"width": 122.59593200683594,
 							"height": 73,
-							"text": "온라인쇼핑몰 구매자(유저)/판매자"
+							"text": "온라인쇼핑몰 구매자(고객)/판매자"
 						},
 						{
 							"_type": "UMLUseCaseSubjectView",
@@ -2274,7 +2274,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFxxOe86cfDe2w="
 							},
-							"name": "온라인 쇼핑몰 시스템"
+							"name": "온라인 쇼핑몰 시스템",
+							"type": ""
 						}
 					]
 				},
@@ -2347,7 +2348,7 @@
 											"top": 238,
 											"width": 95,
 											"height": 13,
-											"text": "온라인쇼핑몰 유저"
+											"text": "온라인쇼핑몰 고객"
 										},
 										{
 											"_type": "LabelView",
@@ -2846,7 +2847,7 @@
 											"top": 399,
 											"width": 142.314453125,
 											"height": 13,
-											"text": "external output system"
+											"text": "external IO system"
 										},
 										{
 											"_type": "LabelView",
@@ -2926,7 +2927,7 @@
 							"font": "Arial;13;0",
 							"left": 408,
 							"top": 608,
-							"width": 122.22998046875,
+							"width": 122.59593200683594,
 							"height": 73,
 							"text": "온라인쇼핑몰 구매자(유저)/판매자"
 						},
@@ -3086,9 +3087,9 @@
 											"font": "Arial;13;0",
 											"left": -320,
 											"top": 32,
-											"width": 80.9072265625,
+											"width": 146.6986083984375,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from 온라인 쇼핑몰 시스템)"
 										},
 										{
 											"_type": "LabelView",
@@ -3238,7 +3239,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFxxO5j3cgAPxo="
 					},
-					"name": "온라인쇼핑몰 유저",
+					"name": "온라인쇼핑몰 고객",
 					"ownedElements": [
 						{
 							"_type": "UMLRealization",
